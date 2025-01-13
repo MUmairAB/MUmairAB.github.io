@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a dedicated researcher and practitioner at the intersection of Natural Language Processing (NLP), Computer Vision (CV), and Machine Learning, with a strong emphasis on their applications in domains such as Education, Social Good, Law, Healthcare, Human-AI Interaction,	AI Interpretability, Social Media Analysis, and Embodied AI. With over six years of diverse experience spanning both academia and industry, I have developed expertise in designing scalable AI systems, conducting applied and theoretical research, and contributing to impactful open-source projects that push the boundaries of AI innovation.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+As an active member of the Python open-source community and a passionate writer on technical and societal topics, I strive to bridge the gap between theoretical advancements and real-world impact. My goal is to combine practical engineering expertise with rigorous research to address meaningful challenges in AI.
 
 
 # 🔥 News
@@ -47,8 +47,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2014 - 2018*, Bachelor of Science in Electrical Engineering, [National University of Computer and Emerging Sciences](https://www.nu.edu.pk/), NUCES-FAST, Pakistan
+  --Received **Silver Medal** on securing [2nd position](https://www.nu.edu.pk/Campus/Chiniot-Faisalabad/MedalHolders) in my department
+
+- *2022 - 2022*, Certified Information Systems Security Professional (CISSP), [Al-Nafi](https://alnafi.com/)
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
