@@ -23,30 +23,32 @@ As an active member of the Python open-source community and a passionate writer 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [10/2024] Our paper [UAV-based detection of landmines using infrared thermography](https://arxiv.org/pdf/2410.23998) is accepted to IJCVR.
+- [05/2024] Joined Depo IQ, USA as a Senior Machine Learning Engineer.
+- [08/2021] Joined Future Analytica as a Data Scientist.
+- [07/2018] Joined the National University of Computer and Emerging Sciences, NUCES-FAST University as a Lab Engineer.
+- [06/2018] I graduated from the National University of Computer and Emerging Sciences, NUCES-FAST, Pakistan with a Silver Medal on securing 2nd position in my batch.
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/arXiv.2410.23998.png' alt="sym" width=150px></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**UAV-based detection of landmines using infrared thermography** [paper](https://arxiv.org/pdf/2410.23998)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Muhammad Umair Akram Butt**, Zaighum Naveed, Usama Javed
+October, 2024
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Recognized with **2 Gold Medals** (Spring 2017, Fall 2014), **1 Silver Medal** (Spring 2015), and **2 Bronze Medals** (Fall 2016, Fall 2017), for consistently ranking at the top of my class and demonstrating academic excellence in semester results at NUCES-FAST University.
+- Honored with the prestigious [Dean's List of Honors](https://www.nu.edu.pk/Campus/Chiniot-Faisalabad/DeanLists) award five times (Spring 2018, Fall 2017, Spring 2017, Fall 2016, Fall 2014) in the recognition of my exceptional academic performance at NUCES-FAST University.
+- Served as Host and Chair of the Editorial Board for the esteemed IEEE Student Branch at NUCES-FAST University, where I led the editorial direction of key publications, and hosted a range of tehnical and social events.
+- Volunteered as an instructor, teaching C++ programming to underprivileged students at [SOS Children's Village](https://www.sos.org.pk/Faisalabad), Pakistan, with valuable coding skills and an opportunity to build a brighter future through technology.
 
-# 📖 Educations
+# 📖 Education
 - *2014 - 2018*, Bachelor of Science in Electrical Engineering, [National University of Computer and Emerging Sciences](https://www.nu.edu.pk/), NUCES-FAST, Pakistan
 
   * Received **Silver Medal** on securing [2nd position](https://www.nu.edu.pk/Campus/Chiniot-Faisalabad/MedalHolders) in my department
