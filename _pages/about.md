@@ -48,6 +48,7 @@ As an active member of the Python open-source community and a passionate writer 
 
 # 📖 Educations
 - *2014 - 2018*, Bachelor of Science in Electrical Engineering, [National University of Computer and Emerging Sciences](https://www.nu.edu.pk/), NUCES-FAST, Pakistan
+
   --Received **Silver Medal** on securing [2nd position](https://www.nu.edu.pk/Campus/Chiniot-Faisalabad/MedalHolders) in my department
 
 - *2022 - 2022*, Certified Information Systems Security Professional (CISSP), [Al-Nafi](https://alnafi.com/)
