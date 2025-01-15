@@ -24,10 +24,11 @@ As an active member of the Python open-source community and a passionate writer 
 
 # 🔥 News
 - [10/2024] Our paper [UAV-based detection of landmines using infrared thermography](https://arxiv.org/pdf/2410.23998) is accepted to IJCVR.
-- [05/2024] Joined Depo IQ, USA as a Senior Machine Learning Engineer.
+- [05/2024] Joined [Depo IQ](https://depoiq.com/), USA as a Senior Machine Learning Engineer.
 - [08/2021] Joined Future Analytica as a Data Scientist.
 - [07/2018] Joined the National University of Computer and Emerging Sciences, NUCES-FAST University as a Lab Engineer.
 - [06/2018] I graduated from the National University of Computer and Emerging Sciences, NUCES-FAST, Pakistan with a Silver Medal on securing 2nd position in my batch.
+- [10/2016] Organized and hosted a two-day seminar [Machine Learning for Signal Processing & Big Data Analytics](https://fb.me/e/7mdHNpOJB).
 
 
 # 📝 Publications 
@@ -45,19 +46,76 @@ October, 2024
 # 🎖 Honors and Awards
 - Recognized with **2 Gold Medals** (Spring 2017, Fall 2014), **1 Silver Medal** (Spring 2015), and **2 Bronze Medals** (Fall 2016, Fall 2017), for consistently ranking at the top of my class and demonstrating academic excellence in semester results at NUCES-FAST University.
 - Honored with the prestigious [Dean's List of Honors](https://www.nu.edu.pk/Campus/Chiniot-Faisalabad/DeanLists) award five times (Spring 2018, Fall 2017, Spring 2017, Fall 2016, Fall 2014) in the recognition of my exceptional academic performance at NUCES-FAST University.
-- Served as Host and Chair of the Editorial Board for the esteemed IEEE Student Branch at NUCES-FAST University, where I led the editorial direction of key publications, and hosted a range of tehnical and social events.
+- Served as Host and Chair of the Editorial Board for the esteemed [IEEE Student Branch](https://cfd.nu.edu.pk/societies/ieee-student-branch/) at NUCES-FAST University, where I led the editorial direction of key publications, and hosted a range of tehnical and social events.
 - Volunteered as an instructor, teaching C++ programming to underprivileged students at [SOS Children's Village](https://www.sos.org.pk/Faisalabad), Pakistan, with valuable coding skills and an opportunity to build a brighter future through technology.
 
 # 📖 Education
-- *2014 - 2018*, Bachelor of Science in Electrical Engineering, [National University of Computer and Emerging Sciences](https://www.nu.edu.pk/), NUCES-FAST, Pakistan
-
+- *2014 - 2018*, Bachelor of Science in Electrical Engineering, [National University of Computer and Emerging Sciences](https://www.nu.edu.pk/), NUCES-FAST, Pakistan <br>
   * Received **Silver Medal** on securing [2nd position](https://www.nu.edu.pk/Campus/Chiniot-Faisalabad/MedalHolders) in my department
 
 - *2022 - 2022*, Certified Information Systems Security Professional (CISSP), [Al-Nafi](https://alnafi.com/)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Articles
+
+- [The Dilemma of Climate Change — It is Caused by the Developed States but Hurts Developing States the Most](https://medium.com/illumination/the-dilemma-of-climate-change-it-is-caused-by-the-developed-states-but-mainly-hurts-the-d6f4bffcc39d) <br>
+*Published in:* LLUMINATION <br>
+*Author:* Umair Akram <br>
+*Date:* March 25, 2023  
+
+- [Do the Big Layoffs mean that Big Tech and Techies are in Big Trouble?](https://theumairakram.medium.com/do-the-big-layoffs-mean-that-big-tech-and-techies-are-in-big-trouble-37d5a57af7c4) <br>
+  *Published in:* ILLUMINATION <br>
+  *Author:* Umair Akram <br>
+  *Date:* January 29, 2023  
+
+- [How to Deploy Machine Learning Models in Production](https://levelup.gitconnected.com/how-to-deploying-machine-learning-models-in-production-3009b90eadfa) <br>
+*Published in:* Level Up Coding <br>
+*Author:* Umair Akram <br>
+*Date:* August 29, 2023
+
+- [How to Plot Stock Prices Using Python](https://levelup.gitconnected.com/how-to-plot-stock-prices-using-python-87ba684d126c) <br>
+  *Author:* Umair Akram  <br>
+  *Published in:* Level Up Coding  <br>
+  *Date:* March 1, 2023
+
+- [How to Create a PDF Document Using Python?](https://medium.com/gitconnected/how-to-plot-stock-prices-using-python-87ba684d126c) <br>
+  *Author:* Umair Akram  <br>
+  *Published in:* Level Up Coding  <br>
+  *Date:* January 12, 2023
+
+
+# 💻 Work Experience
+
+- **Senior Machine Learning Engineer** <br>
+[Depo IQ](https://depoiq.com/), USA (Remote) <br> 
+*05/2024 - To Date*
+
+  * Develop RESTful APIs for experimental pipelines for efficient analysis of legal text using both the proprietary and open-source LLMs. Do research and development (R&D) to find new methodologies to address complex problems in the legal domain, and thus contribute to the advancements in NLP research.
+  * Design and implement Python programs for parsing and preprocessing the legal and medical data for data analysis; develop Retrieval-Augmented Generation (RAG) methods and semantic search algorithms to make information retrieval results more efficient.
+
+- **Data Scientist** <br>
+[aiGoT](https://aigot.com/), Italy (Remote) <br>
+*09/2023 - 4/2024*
+
+  * Developed cutting-edge end-to-end Machine Learning and Deep Learning workflows for NLP and computer vision applications using Python for the hospitality industry.
+
+- **AI / ML Engineer** <br>
+Freelance <br>
+*11/2022 - 8/2023*
+
+  * Provided end-to-end AI solutions for various problems like disease diagnostics, recommendation systems, image classification, and generative AI, among others to domestic and international clients
+
+- **Machine Learning Engineer** <br>
+Future Analytica. <br>
+*08/2021 - 10/2022*
+   
+   * Developed novel end-to-end Machine Learning and Deep Learning pipelines for NLP applications.
+
+- **Lab Engineer** <br>
+[National University of Computer and Emerging Sciences, NUCES-FAST, Pakistan](https://www.nu.edu.pk/) <br>
+*08/2018 - 07/2021*
+
+  * Designed and delivered engaging lab courses to undergraduate engineering and computer science students through proper lecture delivery and hands-on learning experience.
+  * Co-supervised and mentored students on their Final Year Research Theses, and promoted a culture of research and innovation in the university.
+  * Founded and mentored the IEEE Electronics Club, a vibrant platform for student growth through the organization of technical workshops, hackathons, and coding competitions.
+  * Overhauled the lab manuals to align with the outcome-based education (OBE) framework.
