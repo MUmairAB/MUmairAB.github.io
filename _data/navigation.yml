@@ -9,14 +9,17 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Articles"
+    url: "/#-articles"
 
   - title: "Education"
     url: "/#-education"
 
-  - title: "Articles"
-    url: "/#-articles"
+  - title: "Technical Skills"
+    url: "/#-technical-skills"
 
   - title: "Work Experience"
     url: "/#-work-experience"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"

@@ -24,10 +24,10 @@ As an active member of the Python open-source community and a passionate writer 
 
 # 🔥 News
 - [10/2024] Our paper [UAV-based detection of landmines using infrared thermography](https://arxiv.org/pdf/2410.23998) is accepted to IJCVR.
-- [05/2024] Joined [Depo IQ](https://depoiq.com/), USA as a Senior Machine Learning Engineer.
-- [08/2021] Joined Future Analytica as a Data Scientist.
-- [07/2018] Joined the National University of Computer and Emerging Sciences, NUCES-FAST University as a Lab Engineer.
-- [06/2018] I graduated from the National University of Computer and Emerging Sciences, NUCES-FAST, Pakistan with a Silver Medal on securing 2nd position in my batch.
+- [05/2024] Joined [Depo IQ, USA](https://depoiq.com/) as a **Senior Machine Learning Engineer**.
+- [08/2021] Joined Future Analytica as a **Data Scientist**.
+- [07/2018] Joined the National University of Computer and Emerging Sciences, NUCES-FAST University as a **Lab Engineer**.
+- [06/2018] I graduated from the National University of Computer and Emerging Sciences, NUCES-FAST, Pakistan with a **Silver Medal** on securing 2nd position in my batch.
 - [10/2016] Organized and hosted a two-day seminar [Machine Learning for Signal Processing & Big Data Analytics](https://fb.me/e/7mdHNpOJB).
 
 
@@ -36,25 +36,11 @@ As an active member of the Python open-source community and a passionate writer 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/arXiv.2410.23998.png' alt="sym" width=150px></div></div>
 <div class='paper-box-text' markdown="1">
 
-**UAV-based detection of landmines using infrared thermography** [paper](https://arxiv.org/pdf/2410.23998)
-
-**Muhammad Umair Akram Butt**, Zaighum Naveed, Usama Javed
+**UAV-based detection of landmines using infrared thermography** [paper](https://arxiv.org/pdf/2410.23998) <br>
+**Muhammad Umair Akram Butt**, Zaighum Naveed, Usama Javed <br>
 October, 2024
 </div>
 </div>
-
-# 🎖 Honors and Awards
-- Recognized with **2 Gold Medals** (Spring 2017, Fall 2014), **1 Silver Medal** (Spring 2015), and **2 Bronze Medals** (Fall 2016, Fall 2017), for consistently ranking at the top of my class and demonstrating academic excellence in semester results at NUCES-FAST University.
-- Honored with the prestigious [Dean's List of Honors](https://www.nu.edu.pk/Campus/Chiniot-Faisalabad/DeanLists) award five times (Spring 2018, Fall 2017, Spring 2017, Fall 2016, Fall 2014) in the recognition of my exceptional academic performance at NUCES-FAST University.
-- Served as Host and Chair of the Editorial Board for the esteemed [IEEE Student Branch](https://cfd.nu.edu.pk/societies/ieee-student-branch/) at NUCES-FAST University, where I led the editorial direction of key publications, and hosted a range of tehnical and social events.
-- Volunteered as an instructor, teaching C++ programming to underprivileged students at [SOS Children's Village](https://www.sos.org.pk/Faisalabad), Pakistan, with valuable coding skills and an opportunity to build a brighter future through technology.
-
-# 📖 Education
-- *2014 - 2018*, Bachelor of Science in Electrical Engineering, [National University of Computer and Emerging Sciences](https://www.nu.edu.pk/), NUCES-FAST, Pakistan <br>
-  * Received **Silver Medal** on securing [2nd position](https://www.nu.edu.pk/Campus/Chiniot-Faisalabad/MedalHolders) in my department
-
-- *2022 - 2022*, Certified Information Systems Security Professional (CISSP), [Al-Nafi](https://alnafi.com/)
-
 
 # 💬 Articles
 
@@ -82,6 +68,24 @@ October, 2024
   *Author:* Umair Akram  <br>
   *Published in:* Level Up Coding  <br>
   *Date:* January 12, 2023
+
+# 📖 Education
+- *2014 - 2018*, Bachelor of Science in Electrical Engineering, [National University of Computer and Emerging Sciences](https://www.nu.edu.pk/), NUCES-FAST, Pakistan <br>
+  * Received **Silver Medal** on securing [2nd position](https://www.nu.edu.pk/Campus/Chiniot-Faisalabad/MedalHolders) in my department
+
+- *2022 - 2022*, Certified Information Systems Security Professional (CISSP), [Al-Nafi](https://alnafi.com/)
+
+# 🛠️ Technical Skills
+
+- **Programming**: Python, C/C++, MATLAB, Assembly, Microcontroller Programming
+- **ML and Data Science Libraries**: TensorFlow, Keras, Transformers, Scikit-Learn, LangChain, ChatGPT, OpenCV, NLTK, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Gradio
+- **Cloud**: AWS, Modal, FastAPI, REST API
+- **ML Algorithms**: XGBoost, CatBoost, Linear regression, Naive Bayes algorithm
+- **Deep Learning Architectures**: ANN, CNN, RNN, LSTM, Transformer, GPT, Llama, GANs, Diffusers
+- **Database**: MongoDB, PostgreSQL, SQL
+- **Web Scraping**: BeautifulSoup, Snscrape, yfinance
+- **Embedded Systems**: Arduino, Raspberry Pi, ESP32, Proteus, PSpice, PCB Designing
+- **Environments/Technologies**: Linux, Bash, Git, Git LFS, Google Colab, Kaggle Notebooks
 
 
 # 💻 Work Experience
@@ -119,3 +123,9 @@ Future Analytica. <br>
   * Co-supervised and mentored students on their Final Year Research Theses, and promoted a culture of research and innovation in the university.
   * Founded and mentored the IEEE Electronics Club, a vibrant platform for student growth through the organization of technical workshops, hackathons, and coding competitions.
   * Overhauled the lab manuals to align with the outcome-based education (OBE) framework.
+
+# 🎖 Honors and Awards
+- Recognized with **2 Gold Medals** (Spring 2017, Fall 2014), **1 Silver Medal** (Spring 2015), and **2 Bronze Medals** (Fall 2016, Fall 2017), for consistently ranking at the top of my class and demonstrating academic excellence in semester results at NUCES-FAST University.
+- Honored with the prestigious [Dean's List of Honors](https://www.nu.edu.pk/Campus/Chiniot-Faisalabad/DeanLists) award five times (Spring 2018, Fall 2017, Spring 2017, Fall 2016, Fall 2014) in the recognition of my exceptional academic performance at NUCES-FAST University.
+- Served as Host and Chair of the Editorial Board for the esteemed [IEEE Student Branch](https://cfd.nu.edu.pk/societies/ieee-student-branch/) at NUCES-FAST University, where I led the editorial direction of key publications, and hosted a range of tehnical and social events.
+- Volunteered as an instructor, teaching C++ programming to underprivileged students at [SOS Children's Village](https://www.sos.org.pk/Faisalabad), Pakistan, with valuable coding skills and an opportunity to build a brighter future through technology.
