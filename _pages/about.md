@@ -69,16 +69,18 @@ October, 2024
   *Published in:* Level Up Coding  <br>
   *Date:* January 12, 2023
 
-# 📖 Education
-- *2014 - 2018*, Bachelor of Science in Electrical Engineering, [National University of Computer and Emerging Sciences](https://www.nu.edu.pk/), NUCES-FAST, Pakistan <br>
+# Education
+- Bachelor of Science in Electrical Engineering, [National University of Computer and Emerging Sciences](https://www.nu.edu.pk/), NUCES-FAST, Pakistan <br>
+*2014 - 2018* <br>
   * Received **Silver Medal** on securing [2nd position](https://www.nu.edu.pk/Campus/Chiniot-Faisalabad/MedalHolders) in my department
 
-- *2022 - 2022*, Certified Information Systems Security Professional (CISSP), [Al-Nafi](https://alnafi.com/)
+- Certified Information Systems Security Professional (CISSP), [Al-Nafi](https://alnafi.com/) <br>
+*2022 - 2022*
 
-# 🛠️ Technical Skills
+# Technical Skills
 
 - **Programming**: Python, C/C++, MATLAB, Assembly, Microcontroller Programming
-- **ML and Data Science Libraries**: TensorFlow, Keras, Transformers, Scikit-Learn, LangChain, ChatGPT, OpenCV, NLTK, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Gradio
+- **ML and Data Science Libraries**: TensorFlow, Keras, Transformers, Scikit-Learn, LangChain, ChatGPT, Claude, OpenCV, NLTK, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Gradio
 - **Cloud**: AWS, Modal, FastAPI, REST API
 - **ML Algorithms**: XGBoost, CatBoost, Linear regression, Naive Bayes algorithm
 - **Deep Learning Architectures**: ANN, CNN, RNN, LSTM, Transformer, GPT, Llama, GANs, Diffusers
@@ -88,41 +90,52 @@ October, 2024
 - **Environments/Technologies**: Linux, Bash, Git, Git LFS, Google Colab, Kaggle Notebooks
 
 
-# 💻 Work Experience
+# Work Experience
 
 - **Senior Machine Learning Engineer** <br>
 [Depo IQ](https://depoiq.com/), USA (Remote) <br> 
-*05/2024 - To Date*
+*May/2024 - To Date*
 
   * Develop RESTful APIs for experimental pipelines for efficient analysis of legal text using both the proprietary and open-source LLMs. Do research and development (R&D) to find new methodologies to address complex problems in the legal domain, and thus contribute to the advancements in NLP research.
   * Design and implement Python programs for parsing and preprocessing the legal and medical data for data analysis; develop Retrieval-Augmented Generation (RAG) methods and semantic search algorithms to make information retrieval results more efficient.
 
 - **Data Scientist** <br>
 [aiGoT](https://aigot.com/), Italy (Remote) <br>
-*09/2023 - 4/2024*
+*Sep/2023 - Apr/2024*
 
   * Developed cutting-edge end-to-end Machine Learning and Deep Learning workflows for NLP and computer vision applications using Python for the hospitality industry.
 
 - **AI / ML Engineer** <br>
 Freelance <br>
-*11/2022 - 8/2023*
+*Nov/2022 - Aug/2023*
 
   * Provided end-to-end AI solutions for various problems like disease diagnostics, recommendation systems, image classification, and generative AI, among others to domestic and international clients
 
 - **Machine Learning Engineer** <br>
 Future Analytica. <br>
-*08/2021 - 10/2022*
+*Aug/2021 - Oct/2022*
    
    * Developed novel end-to-end Machine Learning and Deep Learning pipelines for NLP applications.
 
 - **Lab Engineer** <br>
 [National University of Computer and Emerging Sciences, NUCES-FAST, Pakistan](https://www.nu.edu.pk/) <br>
-*08/2018 - 07/2021*
+*Aug/2018 - Jul/2021*
 
   * Designed and delivered engaging lab courses to undergraduate engineering and computer science students through proper lecture delivery and hands-on learning experience.
   * Co-supervised and mentored students on their Final Year Research Theses, and promoted a culture of research and innovation in the university.
   * Founded and mentored the IEEE Electronics Club, a vibrant platform for student growth through the organization of technical workshops, hackathons, and coding competitions.
   * Overhauled the lab manuals to align with the outcome-based education (OBE) framework.
+
+- Teaching Asistant <br>
+Linear Circuit Analysis, [Prof. Dr. Syed Ali Mohsin](https://theorg.com/org/fast-national-university/org-chart/syed-mohsin), NUCES-FAST <br>
+*Aug/2015 – Feb/2016*
+
+  * Conducted engaging tutorials to elaborate complex mathematical and engineering concepts, and designed and evaluated assignments and quizzes to ensure better assessment of students' progress.
+
+# Project
+
+- Stroke Prediction Using Machine Learning [[project](https://mumairab.github.io/projects/stroke-prediction/)]
+
 
 # 🎖 Honors and Awards
 - Recognized with **2 Gold Medals** (Spring 2017, Fall 2014), **1 Silver Medal** (Spring 2015), and **2 Bronze Medals** (Fall 2016, Fall 2017), for consistently ranking at the top of my class and demonstrating academic excellence in semester results at NUCES-FAST University.
