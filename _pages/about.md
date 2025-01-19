@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a dedicated researcher and practitioner at the intersection of Natural Language Processing (NLP), Computer Vision (CV), and Machine Learning, with a strong emphasis on their applications in domains such as Education, Social Good, Law, Healthcare, Human-AI Interaction,	AI Interpretability, Social Media Analysis, and Embodied AI. With over six years of diverse experience spanning both academia and industry, I have developed expertise in designing scalable AI systems, conducting applied and theoretical research, and contributing to impactful open-source projects that push the boundaries of AI innovation.
+I am a dedicated researcher and practitioner at the intersection of **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and **Machine Learning**, with a strong emphasis on their applications in domains such as Education, Social Good, Law, Healthcare, Human-AI Interaction,	AI Interpretability, Social Media Analysis, and Embodied AI. With over six years of diverse experience spanning both academia and industry, I have developed expertise in designing scalable AI systems, conducting applied and theoretical research, and contributing to impactful open-source projects that push the boundaries of AI innovation.
 
 As an active member of the Python open-source community and a passionate writer on technical and societal topics, I strive to bridge the gap between theoretical advancements and real-world impact. My goal is to combine practical engineering expertise with rigorous research to address meaningful challenges in AI.
 
@@ -26,14 +26,14 @@ As an active member of the Python open-source community and a passionate writer 
 - [10/2024] Our paper [UAV-based detection of landmines using infrared thermography](https://arxiv.org/pdf/2410.23998) is accepted to IJCVR.
 - [05/2024] Joined [Depo IQ, USA](https://depoiq.com/) as a **Senior Machine Learning Engineer**.
 - [08/2021] Joined Future Analytica as a **Data Scientist**.
-- [07/2018] Joined the National University of Computer and Emerging Sciences, NUCES-FAST University as a **Lab Engineer**.
+- [07/2018] Joined the [National University of Computer and Emerging Sciences, NUCES-FAST](https://www.nu.edu.pk/) University as a **Lab Engineer**.
 - [06/2018] I graduated from the National University of Computer and Emerging Sciences, NUCES-FAST, Pakistan with a **Silver Medal** on securing 2nd position in my batch.
 - [10/2016] Organized and hosted a two-day seminar [Machine Learning for Signal Processing & Big Data Analytics](https://fb.me/e/7mdHNpOJB).
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/arXiv.2410.23998.png' alt="sym" width=150px></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/arXiv.2410.23998.png' alt="sym" width=150px></div></div>
 <div class='paper-box-text' markdown="1">
 
 **UAV-based detection of landmines using infrared thermography** [paper](https://arxiv.org/pdf/2410.23998) <br>
@@ -112,7 +112,7 @@ Freelance <br>
   * Provided end-to-end AI solutions for various problems like disease diagnostics, recommendation systems, image classification, and generative AI, among others to domestic and international clients
 
 - **Machine Learning Engineer** <br>
-Future Analytica. <br>
+Future Analytica <br>
 *Aug/2021 - Oct/2022*
    
    * Developed novel end-to-end Machine Learning and Deep Learning pipelines for NLP applications.
@@ -122,7 +122,7 @@ Future Analytica. <br>
 *Aug/2018 - Jul/2021*
 
   * Designed and delivered engaging lab courses to undergraduate engineering and computer science students through proper lecture delivery and hands-on learning experience.
-  * Co-supervised and mentored students on their Final Year Research Theses, and promoted a culture of research and innovation in the university.
+  * Co-supervised and mentored students on their **Final Year Research Theses**, and promoted a culture of research and innovation in the university.
   * Founded and mentored the IEEE Electronics Club, a vibrant platform for student growth through the organization of technical workshops, hackathons, and coding competitions.
   * Overhauled the lab manuals to align with the outcome-based education (OBE) framework.
 
@@ -132,9 +132,17 @@ Linear Circuit Analysis, [Prof. Dr. Syed Ali Mohsin](https://theorg.com/org/fast
 
   * Conducted engaging tutorials to elaborate complex mathematical and engineering concepts, and designed and evaluated assignments and quizzes to ensure better assessment of students' progress.
 
-# Project
+# Projects
 
-- Stroke Prediction Using Machine Learning [[project](https://mumairab.github.io/projects/stroke-prediction/)]
+- **Stroke Prediction Using Machine Learning** [[project](https://mumairab.github.io/projects/stroke-prediction/)]
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Disaster Tweets Classification Model.png' alt="sym" width=150px></div></div>
+<div class='paper-box-text' markdown="1">
+- **Classification of Disaster Tweets With Transformer-Based NLP Model for Effective Disaster Relief Efforts**
+  * Developed a transformer-based NLP model from scratch for binary classification of disaster-related tweets.
+  * The model can distinguish actual emergency tweets requiring immediate support from the non-emergency content with an accuracy of 98.99%.
+
+
 
 
 # 🎖 Honors and Awards
