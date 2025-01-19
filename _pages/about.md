@@ -132,7 +132,9 @@ Linear Circuit Analysis, [Prof. Dr. Syed Ali Mohsin](https://theorg.com/org/fast
 
   * Conducted engaging tutorials to elaborate complex mathematical and engineering concepts, and designed and evaluated assignments and quizzes to ensure better assessment of students' progress.
 
+
 # Projects
+ 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='projects/stroke-prediction/stroke.png' alt="sym" width=250px></div></div>
 <div class='paper-box-text' markdown="1">
