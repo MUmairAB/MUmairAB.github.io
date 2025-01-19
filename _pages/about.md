@@ -137,11 +137,19 @@ Linear Circuit Analysis, [Prof. Dr. Syed Ali Mohsin](https://theorg.com/org/fast
 **Stroke Prediction Using Machine Learning** [[project](https://mumairab.github.io/projects/stroke-prediction/)]
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Disaster Tweets Classification Model.png' alt="sym" width=150px></div></div>
 <div class='paper-box-text' markdown="1">
+
 **Classification of Disaster Tweets With Transformer-Based NLP Model for Effective Disaster Relief Efforts** <br>
-  * Developed a transformer-based NLP model from scratch for binary classification of disaster-related tweets.
+  * Developed a transformer-based NLP model from scratch for binary classification of disaster-related tweets. <br>
   * The model can distinguish actual emergency tweets requiring immediate support from the non-emergency content with an accuracy of 98.99%.
+
+</div>
+</div>
+
+
+
 
 
 
