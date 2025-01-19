@@ -126,7 +126,7 @@ Future Analytica <br>
   * Founded and mentored the IEEE Electronics Club, a vibrant platform for student growth through the organization of technical workshops, hackathons, and coding competitions.
   * Overhauled the lab manuals to align with the outcome-based education (OBE) framework.
 
-- Teaching Asistant <br>
+- **Teaching Asistant** <br>
 Linear Circuit Analysis, [Prof. Dr. Syed Ali Mohsin](https://theorg.com/org/fast-national-university/org-chart/syed-mohsin), NUCES-FAST <br>
 *Aug/2015 – Feb/2016*
 
