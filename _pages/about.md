@@ -134,7 +134,7 @@ Linear Circuit Analysis, [Prof. Dr. Syed Ali Mohsin](https://theorg.com/org/fast
 
 # Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='projects/stroke-prediction/stroke.png' alt="sym" width=150px></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='projects/stroke-prediction/stroke.png' alt="sym" width=250px></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Stroke Prediction Using Machine Learning** [[project](https://mumairab.github.io/projects/stroke-prediction/)] [[GitHub](https://github.com/MUmairAB/Stroke-Prediction-using-Machine-Learning)]<br>
@@ -145,7 +145,7 @@ Linear Circuit Analysis, [Prof. Dr. Syed Ali Mohsin](https://theorg.com/org/fast
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Disaster Tweets Classification Model.png' alt="sym" width=150px></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Disaster Tweets Classification Model.png' alt="sym" width=250px></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Classification of Disaster Tweets With Transformer-Based NLP Model for Effective Disaster Relief Efforts** [[GitHub](https://github.com/MUmairAB/Disaster-Tweets-Classification-using-Transformers)]<br>
@@ -155,7 +155,7 @@ Linear Circuit Analysis, [Prof. Dr. Syed Ali Mohsin](https://theorg.com/org/fast
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/NewsGPT.webp' alt="sym" width=150px></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/NewsGPT.webp' alt="sym" width=250px></div></div>
 <div class='paper-box-text' markdown="1">
 
 **NewsGPT: A Web App for Summarizing News Articles** [[GitHub](https://github.com/MUmairAB/NewsGPT-Using-LangChain-and-FastAPI)]<br>
@@ -166,7 +166,7 @@ Linear Circuit Analysis, [Prof. Dr. Syed Ali Mohsin](https://theorg.com/org/fast
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/climate change tweets sentiment pie chart.png' alt="sym" width=150px></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/climate change tweets sentiment pie chart.png' alt="sym" width=250px></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Curated a New Twitter Dataset Related to Climate Change for Sentiment Analysis** [[GitHub](https://github.com/MUmairAB/Twitter-Climate-Change-Sentiment-Analysis)]<br>
@@ -177,7 +177,7 @@ Linear Circuit Analysis, [Prof. Dr. Syed Ali Mohsin](https://theorg.com/org/fast
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Complete Histopathological image of breast.png' alt="sym" width=150px></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Complete Histopathological image of breast.png' alt="sym" width=250px></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Breast Cancer Diagnosis Using CNN-Based Deep Learning Model** [[GitHub](https://github.com/MUmairAB/Breast-Cancer-Detection-using-CNNs-in-TensorFlow)]<br>
@@ -187,7 +187,7 @@ Linear Circuit Analysis, [Prof. Dr. Syed Ali Mohsin](https://theorg.com/org/fast
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Combat Robot Example.png' alt="sym" width=150px></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Combat Robot Example.png' alt="sym" width=250px></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Development of a Combat Robot Controlled via Arduino and Bluetooth** [[GitHub](https://github.com/MUmairAB/Combat-Robot)]<br>
@@ -197,7 +197,7 @@ Linear Circuit Analysis, [Prof. Dr. Syed Ali Mohsin](https://theorg.com/org/fast
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/pypi.png' alt="sym" width=150px></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/pypi.png' alt="sym" width=250px></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Published an Open-Source Python Package** [[PyPI](https://pypi.org/project/BrainStrokeClassifier/)]<br>
