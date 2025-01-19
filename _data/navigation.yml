@@ -4,25 +4,25 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Articles"
-    url: "/#-articles"
+    url: "/#articles"
 
   - title: "Education"
-    url: "/#-education"
+    url: "/#education"
 
   - title: "Technical Skills"
-    url: "/#-technical-skills"
+    url: "/#technical-skills"
 
   - title: "Work Experience"
-    url: "/#-work-experience"
+    url: "/#work-experience"
 
   - title: "Projects"
-    url: "/#-projects"
+    url: "/#projects"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"

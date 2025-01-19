@@ -22,7 +22,7 @@ I am a dedicated researcher and practitioner at the intersection of **Natural La
 As an active member of the Python open-source community and a passionate writer on technical and societal topics, I strive to bridge the gap between theoretical advancements and real-world impact. My goal is to combine practical engineering expertise with rigorous research to address meaningful challenges in AI.
 
 
-# 🔥 News
+# News
 - [10/2024] Our paper [UAV-based detection of landmines using infrared thermography](https://arxiv.org/pdf/2410.23998) is accepted to IJCVR.
 - [05/2024] Joined [Depo IQ, USA](https://depoiq.com/) as a **Senior Machine Learning Engineer**.
 - [08/2021] Joined Future Analytica as a **Data Scientist**.
@@ -31,7 +31,7 @@ As an active member of the Python open-source community and a passionate writer 
 - [10/2016] Organized and hosted a two-day seminar [Machine Learning for Signal Processing & Big Data Analytics](https://fb.me/e/7mdHNpOJB).
 
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/arXiv.2410.23998.png' alt="sym" width=150px></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,7 +42,7 @@ October, 2024
 </div>
 </div>
 
-# 💬 Articles
+# Articles
 
 - [The Dilemma of Climate Change — It is Caused by the Developed States but Hurts Developing States the Most](https://medium.com/illumination/the-dilemma-of-climate-change-it-is-caused-by-the-developed-states-but-mainly-hurts-the-d6f4bffcc39d) <br>
 *Published in:* LLUMINATION <br>
@@ -211,7 +211,7 @@ Linear Circuit Analysis, [Prof. Dr. Syed Ali Mohsin](https://theorg.com/org/fast
 
 
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - Recognized with **2 Gold Medals** (Spring 2017, Fall 2014), **1 Silver Medal** (Spring 2015), and **2 Bronze Medals** (Fall 2016, Fall 2017), for consistently ranking at the top of my class and demonstrating academic excellence in semester results at NUCES-FAST University.
 - Honored with the prestigious [Dean's List of Honors](https://www.nu.edu.pk/Campus/Chiniot-Faisalabad/DeanLists) award five times (Spring 2018, Fall 2017, Spring 2017, Fall 2016, Fall 2014) in the recognition of my exceptional academic performance at NUCES-FAST University.
 - Served as Host and Chair of the Editorial Board for the esteemed [IEEE Student Branch](https://cfd.nu.edu.pk/societies/ieee-student-branch/) at NUCES-FAST University, where I led the editorial direction of key publications, and hosted a range of tehnical and social events.
