@@ -134,23 +134,78 @@ Linear Circuit Analysis, [Prof. Dr. Syed Ali Mohsin](https://theorg.com/org/fast
 
 # Projects
 
-**Stroke Prediction Using Machine Learning** [[project](https://mumairab.github.io/projects/stroke-prediction/)]
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='projects/stroke-prediction/stroke.png' alt="sym" width=150px></div></div>
+<div class='paper-box-text' markdown="1">
 
+**Stroke Prediction Using Machine Learning** [[project](https://mumairab.github.io/projects/stroke-prediction/)] [[GitHub](https://github.com/MUmairAB/Stroke-Prediction-using-Machine-Learning)]<br>
+  * Developed a robust machine learning pipeline for the precise assessment of individual vulnerability to brain strokes, leveraging advanced predictive modeling techniques.
+  * Performed comprehensive exploratory data analysis (EDA) to identify and prioritize critical features, enhancing the overall prediction accuracy of the model.
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Disaster Tweets Classification Model.png' alt="sym" width=150px></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Classification of Disaster Tweets With Transformer-Based NLP Model for Effective Disaster Relief Efforts** <br>
+**Classification of Disaster Tweets With Transformer-Based NLP Model for Effective Disaster Relief Efforts** [[GitHub](https://github.com/MUmairAB/Disaster-Tweets-Classification-using-Transformers)]<br>
   * Developed a transformer-based NLP model from scratch for binary classification of disaster-related tweets. <br>
   * The model can distinguish actual emergency tweets requiring immediate support from the non-emergency content with an accuracy of 98.99%.
 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/NewsGPT.webp' alt="sym" width=150px></div></div>
+<div class='paper-box-text' markdown="1">
+
+**NewsGPT: A Web App for Summarizing News Articles** [[GitHub](https://github.com/MUmairAB/NewsGPT-Using-LangChain-and-FastAPI)]<br>
+  * Developed and deployed a web app that automatically summarizes news articles through their web links using LangChain and FastAPI frameworks.
+  * It employed the [BART Large CNN](https://huggingface.co/facebook/bart-large-cnn) open-source model for text summarization and also provided support to incorporate OpenAI's ChatGPT.
+
+</div>
+</div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/climate change tweets sentiment pie chart.png' alt="sym" width=150px></div></div>
+<div class='paper-box-text' markdown="1">
 
+**Curated a New Twitter Dataset Related to Climate Change for Sentiment Analysis** [[GitHub](https://github.com/MUmairAB/Twitter-Climate-Change-Sentiment-Analysis)]<br>
+  * Curated a new dataset of **1.1 million** tweets related to climate change by scrapping Twitter. Performed comprehensive data cleaning and preprocessing to ensure the relevance and accuracy of the generated dataset. The dataset is made [publicly available](https://github.com/MUmairAB/Twitter-Climate-Change-Sentiment-Analysis/tree/main/Dataset) for future research.
+  * Developed an efficient pipeline for sentiment analysis of tweets related to climate change. Generated engaging graphs to highlight the general trend about this calamity among the masses.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Complete Histopathological image of breast.png' alt="sym" width=150px></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Breast Cancer Diagnosis Using CNN-Based Deep Learning Model** [[GitHub](https://github.com/MUmairAB/Breast-Cancer-Detection-using-CNNs-in-TensorFlow)]<br>
+  * Designed and trained a CNN-based deep learning model to diagnose breast cancer using histopathological images of the patient.
+  * Deployed the model on [HuggingFace Spaces](https://huggingface.co/spaces/MUmairAB/BreastCancerDetector-app) and created an easy-to-use graphical user interface (GUI) using the Gradio library to enhance the accessibility of my research for other researchers and practitioners.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Combat Robot Example.png' alt="sym" width=150px></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Development of a Combat Robot Controlled via Arduino and Bluetooth** [[GitHub](https://github.com/MUmairAB/Combat-Robot)]<br>
+  * Designed a 17 kg dual-weapon combat robot with a grinder as a primary weapon to crush the enemy robot and a passive slider as a secondary weapon to turn the opponent robot upside-down.
+  * It was built using the Arduino microcontroller that was integrated with an HC-05 Bluetooth module for wireless operation via a custom-built Android app.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/pypi.png' alt="sym" width=150px></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Published an Open-Source Python Package** [[PyPI](https://pypi.org/project/BrainStrokeClassifier/)]<br>
+  * Designed an open-source Python package for an ML classification pipeline and published it on the Python Package Index (PyPI) repository to ensure broader accessibility to researchers and developers.
+  * This open-source package can be easily installed via a simple pip command and thus is a valuable contribution to the open-source machine learning community.
+
+</div>
+</div>
 
 
 
