@@ -1,7 +1,7 @@
 
 The personal web page of Umair Akram.
 
-# Acknowledges
+# Acknowledgement
 
 - This is forked from [acad-homepage](https://github.com/RayeRen/acad-homepage.github.io).
 - AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.

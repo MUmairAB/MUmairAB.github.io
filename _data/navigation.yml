@@ -24,5 +24,8 @@ main:
   - title: "Projects"
     url: "/#projects"
 
+  - title: "Teaching"
+    url: "/#teaching"
+
   - title: "Honors and Awards"
     url: "/#honors-and-awards"

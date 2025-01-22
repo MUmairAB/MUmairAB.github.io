@@ -29,6 +29,8 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CvBm5PYAAAAJ"
   email            : "the.umair.akram@gmail.com"
+  github           : "MUmairAB"
+  linkedin         : "m-umair01" # e.g., "linkedin username"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   medium           : "https://theumairakram.medium.com/"
@@ -38,13 +40,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MUmairAB"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "m-umair01" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

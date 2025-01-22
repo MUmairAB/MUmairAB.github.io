@@ -210,6 +210,25 @@ Linear Circuit Analysis, [Prof. Dr. Syed Ali Mohsin](https://theorg.com/org/fast
 </div>
 
 
+# Teaching
+
+- University Laboratory Courses:<br>
+@ [National University of Computer and Emerging Sciences, NUCES-FAST](https://www.nu.edu.pk/) <br>
+  * **Introduction to Computing (ITC)** (Fall 2018, Fall 2019)
+  * **Signals & Systems** (Spring 2020, Spring 2021)
+  * **Digital Signal Processing** (Spring 2020)
+  * **Analog & Digital Communication** (Fall 2019, Fall 2020)
+  * **Linear Circuit Analysis** (Spring 2019, Summer 2019)
+  * **Digital Logic Design** (Spring 2020, Spring 2021)
+  * **Physics for Engineers** (Fall 2018, Fall 2019, Fall 2020)
+
+- Supplementary Teaching
+  * **Python Programming for Kids** (Undergoing initiative)
+  * **Introduction to Machine Learning** (2023)
+
+- Teaching Assistant
+  * **Linear Circuit Analysis**, [Prof. Dr. Syed Ali Mohsin](https://theorg.com/org/fast-national-university/org-chart/syed-mohsin), NUCES-FAST (Fall 2015)
+
 
 # Honors and Awards
 - Recognized with **2 Gold Medals** (Spring 2017, Fall 2014), **1 Silver Medal** (Spring 2015), and **2 Bronze Medals** (Fall 2016, Fall 2017), for consistently ranking at the top of my class and demonstrating academic excellence in semester results at NUCES-FAST University.
