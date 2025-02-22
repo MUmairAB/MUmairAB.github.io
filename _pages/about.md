@@ -23,6 +23,7 @@ As an active member of the Python open-source community and a passionate writer 
 
 
 # News
+- [2/2025] Published an article [DeepSeek — AI’s Linus Torvalds Moment](https://theumairakram.medium.com/deepseek-ais-linus-torvalds-moment-96653b9273f9).
 - [10/2024] Our paper [UAV-based detection of landmines using infrared thermography](https://arxiv.org/pdf/2410.23998) is accepted to IJCVR.
 - [05/2024] Joined [Depo IQ, USA](https://depoiq.com/) as a **Senior Machine Learning Engineer**.
 - [08/2021] Joined Future Analytica as a **Data Scientist**.
@@ -43,6 +44,10 @@ October, 2024
 </div>
 
 # Articles
+
+- [DeepSeek — AI’s Linus Torvalds Moment](https://theumairakram.medium.com/deepseek-ais-linus-torvalds-moment-96653b9273f9) <br>
+*Author:* Umair Akram <br>
+*Date:* February 22, 2025
 
 - [The Dilemma of Climate Change — It is Caused by the Developed States but Hurts Developing States the Most](https://medium.com/illumination/the-dilemma-of-climate-change-it-is-caused-by-the-developed-states-but-mainly-hurts-the-d6f4bffcc39d) <br>
 *Published in:* LLUMINATION <br>
