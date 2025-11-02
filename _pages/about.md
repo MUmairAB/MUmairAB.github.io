@@ -23,6 +23,7 @@ As an active member of the Python open-source community and a passionate writer 
 
 
 # News
+- [8/2025] Started my [Master's program in AI and Machine Learning](https://www.bth.se/english/education/programmes/masters-programme-in-ai-and-machine-learning-120-hp) at [Blekinge Institute of Technology](https://www.bth.se/english), Sweden.
 - [2/2025] Published an article [DeepSeek — AI’s Linus Torvalds Moment](https://theumairakram.medium.com/deepseek-ais-linus-torvalds-moment-96653b9273f9).
 - [10/2024] Our paper [UAV-based detection of landmines using infrared thermography](https://arxiv.org/pdf/2410.23998) is accepted to IJCVR.
 - [05/2024] Joined [Depo IQ, USA](https://depoiq.com/) as a **Senior Machine Learning Engineer**.
@@ -75,6 +76,8 @@ October, 2024
   *Date:* January 12, 2023
 
 # Education
+- Master of Science in AI and Machine Learning, [Blekinge Institute of Technology (BTH)](https://www.bth.se/english), Sweden <br>
+*2025-onwards* <br>
 - Bachelor of Science in Electrical Engineering, [National University of Computer and Emerging Sciences](https://www.nu.edu.pk/), NUCES-FAST, Pakistan <br>
 *2014 - 2018* <br>
   * Received **Silver Medal** on securing [2nd position](https://www.nu.edu.pk/Campus/Chiniot-Faisalabad/MedalHolders) in my department
