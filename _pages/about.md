@@ -27,8 +27,6 @@ As an active member of the Python open-source community and a passionate writer 
 - [2/2025] Published an article [DeepSeek — AI’s Linus Torvalds Moment](https://theumairakram.medium.com/deepseek-ais-linus-torvalds-moment-96653b9273f9).
 - [10/2024] Our paper [UAV-based detection of landmines using infrared thermography](https://arxiv.org/pdf/2410.23998) is accepted to IJCVR.
 - [05/2024] Joined [Depo IQ, USA](https://depoiq.com/) as a **Senior Machine Learning Engineer**.
-- [08/2021] Joined Future Analytica as a **Data Scientist**.
-- [07/2018] Joined the [National University of Computer and Emerging Sciences, NUCES-FAST](https://www.nu.edu.pk/) University as a **Lab Engineer**.
 - [10/2016] Organized and hosted a two-day seminar [Machine Learning for Signal Processing & Big Data Analytics](https://fb.me/e/7mdHNpOJB).
 
 
@@ -87,7 +85,7 @@ October, 2024
 # Technical Skills
 
 - **Programming**: Python, C/C++, MATLAB, Assembly, Microcontroller Programming
-- **ML and Data Science Libraries**: TensorFlow, Keras, Transformers, Scikit-Learn, LangChain, ChatGPT, Claude, OpenCV, NLTK, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Gradio
+- **ML and Data Science Libraries**: Agentic AI, MCP, Multi-Agents, TensorFlow, Keras, Transformers, Scikit-Learn, LangChain, ChatGPT, Claude, OpenCV, NLTK, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Gradio, Streamlit
 - **Cloud**: AWS, Modal, FastAPI, REST API
 - **ML Algorithms**: XGBoost, CatBoost, Linear regression, Naive Bayes algorithm
 - **Deep Learning Architectures**: ANN, CNN, RNN, LSTM, Transformer, GPT, Llama, GANs, Diffusers
