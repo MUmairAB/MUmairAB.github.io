@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a dedicated researcher and practitioner at the intersection of **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and **Machine Learning**, with a strong emphasis on their applications in domains such as Education, Social Good, Law, Healthcare, Human-AI Interaction,	AI Interpretability, Social Media Analysis, and Embodied AI. With over six years of diverse experience spanning both academia and industry, I have developed expertise in designing scalable AI systems, conducting applied and theoretical research, and contributing to impactful open-source projects that push the boundaries of AI innovation.
+I am a dedicated researcher and practitioner at the intersection of **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and **Machine Learning**, with a strong emphasis on their applications in domains such as Education, Social Good, Law, Healthcare, Human-AI Interaction,	AI Interpretability, Social Media Analysis, and Embodied AI. Throughout my career, I have developed expertise in designing scalable AI systems, conducting applied and theoretical research, and contributing to impactful open-source projects that push the boundaries of AI innovation.
 
 As an active member of the Python open-source community and a passionate writer on technical and societal topics, I strive to bridge the gap between theoretical advancements and real-world impact. My goal is to combine practical engineering expertise with rigorous research to address meaningful challenges in AI.
 
@@ -29,7 +29,6 @@ As an active member of the Python open-source community and a passionate writer 
 - [05/2024] Joined [Depo IQ, USA](https://depoiq.com/) as a **Senior Machine Learning Engineer**.
 - [08/2021] Joined Future Analytica as a **Data Scientist**.
 - [07/2018] Joined the [National University of Computer and Emerging Sciences, NUCES-FAST](https://www.nu.edu.pk/) University as a **Lab Engineer**.
-- [06/2018] I graduated from the National University of Computer and Emerging Sciences, NUCES-FAST, Pakistan with a **Silver Medal** on securing 2nd position in my batch.
 - [10/2016] Organized and hosted a two-day seminar [Machine Learning for Signal Processing & Big Data Analytics](https://fb.me/e/7mdHNpOJB).
 
 
@@ -79,11 +78,11 @@ October, 2024
 - Master of Science in AI and Machine Learning, [Blekinge Institute of Technology (BTH)](https://www.bth.se/english), Sweden <br>
 *2025-onwards* <br>
 - Bachelor of Science in Electrical Engineering, [National University of Computer and Emerging Sciences](https://www.nu.edu.pk/), NUCES-FAST, Pakistan <br>
-*2014 - 2018* <br>
+*2018* <br>
   * Received **Silver Medal** on securing [2nd position](https://www.nu.edu.pk/Campus/Chiniot-Faisalabad/MedalHolders) in my department
 
 - Certified Information Systems Security Professional (CISSP), [Al-Nafi](https://alnafi.com/) <br>
-*2022 - 2022*
+*2022*
 
 # Technical Skills
 
