@@ -36,7 +36,7 @@ As an active member of the Python open-source community and a passionate writer 
 <div class='paper-box-text' markdown="1">
 
 **UAV-based detection of landmines using infrared thermography** [paper](https://arxiv.org/pdf/2410.23998) <br>
-**Muhammad Umair Akram Butt**, Zaighum Naveed, Usama Javed <br>
+**Muhammad Umair A.B,**, Zaighum Naveed, Usama Javed <br>
 October, 2024
 </div>
 </div>
